@@ -1,3 +1,4 @@
 ---
 :tddium:
   :timeout: 60
+  :firefox: '24.0esr'
