@@ -1,5 +1,5 @@
 GIT
-  remote: git@github.com:semipermeable/tddium_client.git
+  remote: git@github.com:solanolabs/tddium_client.git
   revision: 62165d1c762cb3fd037a6509df5b4d34e7edbada
   specs:
     tddium_client (0.2.0)
